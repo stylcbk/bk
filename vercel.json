@@ -1,0 +1,10 @@
+// redirect-project/vercel.json
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "http://srv234979.hoster-test.ru/sd/login",
+      "permanent": false
+    }
+  ]
+}
